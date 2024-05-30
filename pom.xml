@@ -24,6 +24,7 @@
         <module>springcloudgateway</module>
         <module>eureka</module>
         <module>eureka-client-service</module>
+        <module>spring-cloud-config-server</module>
     </modules>
 
     <properties>
