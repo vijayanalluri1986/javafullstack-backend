@@ -20,6 +20,10 @@
         <module>kafka-producer</module>
         <module>kafka-consumer</module>
         <module>spring-data-jpa</module>
+        <module>spring-oauth-security</module>
+        <module>springcloudgateway</module>
+        <module>eureka</module>
+        <module>eureka-client-service</module>
     </modules>
 
     <properties>
