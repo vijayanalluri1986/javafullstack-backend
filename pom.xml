@@ -19,7 +19,7 @@
     <modules>
         <module>kafka-producer</module>
         <module>kafka-consumer</module>
-
+        <module>spring-data-jpa</module>
     </modules>
 
     <properties>

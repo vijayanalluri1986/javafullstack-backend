@@ -2,3 +2,5 @@
 
 * `kafka-producer` - To produce kafka Events.
 * `kafka-consumer` - To consume Kafka Events.
+* `java` - Basic Java Programming.
+
