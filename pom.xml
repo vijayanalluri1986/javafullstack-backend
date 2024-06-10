@@ -25,6 +25,7 @@
         <module>eureka</module>
         <module>eureka-client-service</module>
         <module>spring-cloud-config-server</module>
+        <module>hexagonal-architecture-example</module>
     </modules>
 
     <properties>
